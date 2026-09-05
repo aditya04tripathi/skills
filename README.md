@@ -115,4 +115,4 @@ Frontmatter requires `name` (lowercase, hyphens) and `description` (what + when,
 
 ## License
 
-Private unless a license file is added to this repository.
+[MIT](LICENSE) © 2026 Aditya Tripathi
